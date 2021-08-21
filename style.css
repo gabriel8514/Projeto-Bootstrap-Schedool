@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
+
+
+a{
+    font-family: 'Poppins', sans-serif;
+    color: #372a25;
+    font-size: 1.0rem;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #9d9f9e;
+    font-size: 1rem; 
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #000002;
+    font-size: 3.2rem;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    color: #9d9f9e;
+}
+
+h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #000002;
+    font-size: 2rem; 
+}
+
+h4 span{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #e28c1c;
+    font-size: 0.9rem; 
+}
+
+h5{
+    font-family: 'Poppins', sans-serif;
+    color: #000002;
+    font-size: 1.1rem; 
+    font-weight: 600;
+}
+
+.centralizar-links{
+    margin: 0 auto;
+}
+
+.corNavbar{
+    background-color: #fff0e9;
+}
+
+.botaoNavbar{
+    background-color: #f99c80;
+    color: #fff3e6;
+    padding: 10px 20px;
+    border-radius: 8px; 
+}
+
+.botaoNavbar:hover{
+    color: #fff3e6;
+    background-color: #ff7d56;
+    transition: 0.2s;
+  }
+
+  .chamadabox{
+      padding-top: 5rem;
+      background-color: #fff0e9;
+  }
+  
+  h1 span{
+    color: #ff7d56;
+  }
+
+  .features{
+      background-color: #fff0e9;
+      color: #daaa9d;
+      padding: 5px 15px; 
+      border-radius: 25px;
+      text-transform: uppercase;
+  }
+
+  .fototexto{
+      margin-top: 8rem;
+  }
+
+  .rowsfototexto{
+      margin-bottom: 8rem;
+  }
+
+  .espacotexto{
+      padding-top: 4rem;
+  }
+
+  .priceList{
+      background-color: #fff0e9;
+      padding: 15px;
+      border-radius: 25px;
+  }
+
+ 
